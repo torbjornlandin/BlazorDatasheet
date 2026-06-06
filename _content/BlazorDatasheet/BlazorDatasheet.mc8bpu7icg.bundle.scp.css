@@ -1,0 +1,32 @@
+/* _content/BlazorDatasheet/Edit/DefaultComponents/DateTimeEditorComponent.razor.rz.scp.css */
+.date-input[b-0nxgffd6dp] {
+    width: calc(100% - 4px);
+    border: 1px solid black;
+    padding: 0;
+    height: calc(100%);
+    box-sizing: border-box;
+}
+
+.date-input:focus[b-0nxgffd6dp] {
+    outline: none;
+}
+/* _content/BlazorDatasheet/Edit/DefaultComponents/HighlightedInput.Razor.rz.scp.css */
+/* _content/BlazorDatasheet/Edit/DefaultComponents/SelectEditorComponent.razor.rz.scp.css */
+/* _content/BlazorDatasheet/Edit/DefaultComponents/TextEditorComponent.razor.rz.scp.css */
+.text-input[b-ogyzqrxhj5] {
+    width: 100%;
+    border: none;
+    padding: 2px;
+    height: calc(100%);
+    box-sizing: border-box;
+}
+
+.text-input:focus[b-ogyzqrxhj5] {
+    outline: none;
+}
+/* _content/BlazorDatasheet/Render/CaretButton.razor.rz.scp.css */
+/* _content/BlazorDatasheet/Render/DefaultComponents/SelectRenderer.razor.rz.scp.css */
+/* _content/BlazorDatasheet/Render/DefaultComponents/TextRenderer.razor.rz.scp.css */
+.cell-renderer[b-7xkejoswml]{
+    overflow:hidden;
+}
